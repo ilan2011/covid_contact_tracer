@@ -1,4 +1,3 @@
-#Author: Ilan Breines 261036901
 
 from student import Student
 from contactTracker import ContactTracker
